@@ -33,7 +33,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", -1003670001038))
 
 ARC_API_URL = getenv("ARC_API_URL", "https://api.arcmusic.fun")
-ARC_API_KEY = getenv("ARC_API_KEY", "ARC4671e290cb3ff11230be62")
+ARC_API_KEY = getenv("ARC_API_KEY", "ARC3f56e739819833b487b699")
 
 
 # ======================================================
