@@ -33,7 +33,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", -1003670001038))
 
 ARC_API_URL = getenv("ARC_API_URL", "https://api.arcmusic.fun")
-ARC_API_KEY = getenv("ARC_API_KEY", "ARC3f56e739819833b487b699")
+ARC_API_KEY = getenv("ARC_API_KEY", "ARC4671e290cb3ff11230be62")
 
 
 # ======================================================
@@ -47,7 +47,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ======================================================
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
-
+ARC4671e290cb3ff11230be62
 # ======================================================
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
